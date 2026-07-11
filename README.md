@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:0f172a&height=260&section=header&text=Dwitee%20Krishna%20Panda&fontSize=48&fontColor=ffffff&desc=Senior%20Software%20Engineer%20(AI%20Focus)%20%E2%80%A2%20CTO%20%E2%80%A2%20Technical%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<a href="https://www.dwitee.co.uk/">
+  <img src="hero-banner.png" width="100%" alt="Dwitee Krishna Panda — Senior Software Engineer (AI Focus), CTO, Technical Architect"/>
+</a>
+
+<br/>
 
 <a href="https://www.dwitee.co.uk/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&lines=Building+Agentic+AI+%26+LLM+Systems+at+Scale;LangGraph+%7C+RAG+%7C+Multi-Agent+Orchestration;19%2B+Years+%E2%80%A2+25%2B+Products+Shipped+%E2%80%A2+2x+Hackathon+Winner;Ex-Flipkart+%7C+Ex-EA+Games+%7C+King's+College+London" alt="Typing SVG" />
