@@ -45,7 +45,7 @@ With over two decades of engineering experience across **Big Tech, gaming, enter
 
 From architecting **India's first large-scale e-commerce gamezone platform at [Flipkart](https://www.flipkart.com/)**, to building game platforms at **MechMocha** and shipping gameplay code at **[EA Games](https://www.ea.com/)**, to advancing AI accessibility research at **[King's College London](https://www.kcl.ac.uk/)** — I blend enterprise-grade engineering discipline with rapid innovation.
 
-**Currently @ [Pfizer](https://www.pfizer.com/) as Lead AI Engineer** — building production agentic AI systems. I design multi-agent applications that turn plain-English questions into validated SQL over cloud data warehouses and return summaries, interactive charts, and insights. My work spans LLM orchestration, prompt engineering, streaming full-stack apps, asynchronous job processing, observability, and cloud-native deployment.
+**Currently @ [Pfizer](https://www.pfizer.com/) as Lead AI Engineer** — building production agentic AI systems. I design multi-agent applications that turn plain-English questions into validated SQL over cloud data warehouses and return summaries, interactive charts, and insights. My work spans LLM orchestration with the **Claude Agent SDK**, **context engineering** (schema skill files and query patterns that give each agent exactly the context it needs), an **agent harness** that wraps agents with tools, validation, and guardrails, **agent evals** that catch regressions before release, prompt engineering, streaming full-stack apps, asynchronous job processing, observability, and cloud-native deployment.
 
 **Previously @ [Areeva.ai](https://areeva.ai/)** — built AI/ML-driven conversational platforms that let autonomous AI agents run real-time voice/video interactions, deployed at scale on AWS (EKS, ECR, Karpenter) with CI/CD, monitoring, and model evaluation.
 
@@ -53,6 +53,20 @@ From architecting **India's first large-scale e-commerce gamezone platform at [F
 
 |  🕒 20+ Years  |  🚀 25+ Products Shipped  |  🏆 2× Hackathon Winner  |  🎤 10+ Talks / Workshops  |
 |:---:|:---:|:---:|:---:|
+
+</div>
+
+<br/>
+
+## 🧭 My Learning Philosophy
+
+<div align="center">
+
+### *"Nothing is a mistake. There's no win and no fail. There's only make."*
+
+**— Sister Corita Kent** · Rule 6, *Some Rules for Students and Teachers* (1967)
+
+<sub>Artist, educator, and nun — popularized by composer John Cage</sub>
 
 </div>
 
@@ -155,7 +169,10 @@ DistilBERT-based NER pipeline surfacing early health indicators from text.
 2026 – Present   Lead AI Engineer · <a href="https://www.pfizer.com/">Pfizer</a>
                  Production agentic AI system: text-to-SQL → charts → insights
                  Hierarchical multi-agent LLM orchestration (LangGraph/LangChain)
-                 Validated SQL pipeline: skill files + query patterns + auto-retry
+                 Claude Agent SDK-based agents with a custom harness (tools, guardrails)
+                 Context engineering: skill files + query patterns feed each agent
+                 Agent evals: regression suites score SQL, charts & summaries per release
+                 Validated SQL pipeline: pre-run checks + auto-retry on failure
                  Azure OpenAI GPT + AWS Bedrock Claude, config-driven model choice
                  "AI never invents values" enforced in prompts and UI
                  Streaming React/TypeScript chat over SSE + Redis Streams
