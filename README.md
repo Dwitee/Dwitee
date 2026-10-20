@@ -161,6 +161,23 @@ DistilBERT-based NER pipeline surfacing early health indicators from text.
 </tr>
 </table>
 
+<table>
+<tr>
+<td valign="top">
+
+**[Admora](https://admora.dwitee.co.uk/)** — Founder & CTO · live in production
+Ticketing for small UK events, paid straight to the organiser
+
+Invite-only ticketing for community, charity and small events (school clubs, supper clubs, fundraisers, festivals). Organisers create an event, set ticket types and prices, and share a link or QR code. Guests pick tickets on their phone and pay by card or Apple Pay on Stripe's secure page; money lands directly in the organiser's own Stripe account (Stripe Connect), Admora never holds it, and guests see no added booking fees. Each guest gets a QR ticket by email, and organisers get a searchable guest list with CSV export. Engineering write-up: [How Admora is built](https://admora.dwitee.co.uk/blogs).
+
+`Next.js` `FastAPI` `PostgreSQL (Neon)` `Stripe Connect` `Row-Level Security`
+
+📈 Live in production · UK events, GBP
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 ## 💼 Experience Highlights
